@@ -3,4 +3,10 @@ This program uses DFS to solves the knights path to find the first solution wher
 
 
 Example
+
+
+
+
+
+
 ![myimage](https://upload.wikimedia.org/wikipedia/commons/c/ca/Knights-Tour-Animation.gif)
